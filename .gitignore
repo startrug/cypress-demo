@@ -1,5 +1,5 @@
 node_modules
 .vs
+cypress/fixtures
 cypress/screenshots
 cypress/videos
-cypress/fixtures
