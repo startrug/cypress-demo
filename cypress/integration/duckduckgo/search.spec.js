@@ -2,6 +2,7 @@
 
 import { isElementVisible } from "../../support/utils";
 
+const textToSearch = 'cypress hill'
 const webSiteTitle = 'Home | Cypress Hill | Official Website'
 
 describe('Test of DuckDuckGo searching', () => {
