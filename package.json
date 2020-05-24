@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "cypress:open": "cypress open",
-    "cypress:headless": "cypress run --headless --browser chrome"
+    "cypress:headless": "cypress run --headless --browser edge"
   },
   "keywords": [],
   "author": "",
